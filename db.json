@@ -34,7 +34,7 @@
         },
         {
             "id": 2,
-            "type": "presencial",
+            "type": "telefonica",
             "day": "Fri Apr 24 2021",
             "hour": "6:00 p.m.",
             "firstName": "José",
